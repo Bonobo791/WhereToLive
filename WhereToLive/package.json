@@ -4,7 +4,10 @@
   "description": "Website to help choose where to live developed by Andrew Weilbacher",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.16.2"
+    "bootstrap": "^3.3.7",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "list.js": "^1.5.0"
   },
   "devDependencies": {},
   "scripts": {
